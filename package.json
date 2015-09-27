@@ -1,7 +1,7 @@
 {
   "name": "amdcheck-loader",
   "description": "Webpack loader that uses AST to find and remove unused dependencies in AMD modules.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/mehdishojaei/amdcheck-loader",
   "author": "Mehdi Shojaei",
   "contributors": [
