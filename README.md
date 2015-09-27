@@ -19,4 +19,3 @@ See `webpack` documentation.
 ## License
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
-# amdcheck-loader
