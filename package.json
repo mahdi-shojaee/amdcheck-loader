@@ -1,0 +1,44 @@
+{
+  "name": "amdcheck-loader",
+  "description": "Webpack loader that uses AST to find and remove unused dependencies in AMD modules.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mehdishojaei/amdcheck-loader",
+  "author": "Mehdi Shojaei",
+  "contributors": [
+    {
+      "name": "Mehdi Shojaei",
+      "email": "msh6180339@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehdishojaei/amdcheck-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mehdishojaei/amdcheck-loader/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mehdishojaei/amdcheck-loader/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "amdextract": "^2.0.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "optimize",
+    "AMD",
+    "dependency",
+    "unused",
+    "useless",
+    "requirejs"
+  ],
+  "readmeFilename": "README.md"
+}
