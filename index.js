@@ -1,5 +1,8 @@
 var amdextract = require('amdextract');
 
 module.exports = function(source) {
-	return amdextract.parse(source).optimizedContent;
+  var options = this.options || {};
+  options.removeUnusedDependencies = true;
+
+	return amdextract.parse(source, options).optimizedContent;
 };
