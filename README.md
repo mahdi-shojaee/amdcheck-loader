@@ -1,4 +1,4 @@
-# amdcheck loader for webpack
+# amdcheck loader for webpack [![Known Vulnerabilities](https://snyk.io/test/github/mehdishojaei/amdcheck-loader/badge.svg)](https://snyk.io/test/github/mehdishojaei/amdcheck-loader)
 
 > Uses AST to find and remove unused dependencies in AMD modules.
 
